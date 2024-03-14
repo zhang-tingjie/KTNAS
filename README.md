@@ -64,7 +64,7 @@ python test4med.py # need to replace manually the parameter '--log_dir'
 + Evaluation:
   - `./cifar/eval/`
 + Master file:
-  - `./cifarmain.py`
+  - `./cifar/main.py`
 + Paper related:
   - `./figures/`
  
