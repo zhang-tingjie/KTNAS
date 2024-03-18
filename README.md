@@ -34,7 +34,7 @@ cd med
 python main4med.py 
 ```
 
-#### Test on MNIST and Fashion-MNIST
+#### Test on MedMNIST
 ```
 cd med
 python test4med.py # need to replace manually the parameter '--log_dir'
