@@ -47,24 +47,24 @@ python test4med.py # need to replace manually the parameter '--log_dir'
   - `./cifar/`
   - `./mnist/`
   - `./med/`
-+ Search space (cifar example):
-  - `./cifar/models/`
-  - `./cifar/modules/`
-  - `./cifar/cnn_utils.py`
-  - `./cifar/common.py`
-  - `./cifar/data.py`
++ Search space (experiment XX):
+  - `./XX/models/`
+  - `./XX/modules/`
+  - `./XX/cnn_utils.py`
+  - `./XX/common.py`
+  - `./XX/data.py`
 + Algorithm related:
-  - `./cifar/gnas/`
-  - `./cifar/graph/`
-  - `./cifar/transfer_rank.py`
+  - `./XX/gnas/`
+  - `./XX/graph/`
+  - `./XX/transfer_rank.py`
 + Parameter settings:
-  - `./cifar/config.py`
+  - `./XX/config.py`
 + Search results:
-  - `./cifar/logs/`
+  - `./XX/logs/`
 + Evaluation:
-  - `./cifar/eval/`
+  - `./XX/eval/`
 + Master file:
-  - `./cifar/main.py`
+  - `./XX/main.py`
 + Paper related:
   - `./figures/`
  
