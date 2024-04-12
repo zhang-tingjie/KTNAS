@@ -25,7 +25,7 @@ python main4mnist.py
 #### Test on MNIST and Fashion-MNIST
 ```
 cd mnist
-python test4mnist.py # need to replace manually the parameter '--log_dir'
+python test4mnist.py # need to manually replace the parameter '--log_dir'
 ```
 
 #### Search on MedMNIST
@@ -37,7 +37,7 @@ python main4med.py
 #### Test on MedMNIST
 ```
 cd med
-python test4med.py # need to replace manually the parameter '--log_dir'
+python test4med.py # need to manually replace the parameter '--log_dir'
 ```
 
 ## File structure of this example
