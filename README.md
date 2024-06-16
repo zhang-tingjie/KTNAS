@@ -1,4 +1,4 @@
-## [Effective Knowledge Transfer for Multi-Task Convolutional Architecture Search](http://none)
+## [Effective Knowledge Transfer for Evolutionary Multi-Task Neural Architecture Search](http://none)
 
 ## Usage
 
