@@ -1,4 +1,4 @@
-## [Multi-Task Neural Architecture Search using Architecture Embedding and Transfer Rank](http://none)
+## [Architecture Transferability Quantifying for Multi-Task Neural Architecture Search](https://ieeexplore.ieee.org/abstract/document/11359501)
 
 ## Usage
 
@@ -92,5 +92,11 @@ python test4med.py # need to manually replace the parameter '--log_dir'
 ## Reference
 If you find this code helpful for your research, please cite our paper.
 ```
-none
+@article{zhang2026architecture,
+  title={Architecture Transferability Quantifying for Multi-Task Neural Architecture Search},
+  author={Zhang, Tingjie and Liu, Hai-Lin and Xiao, Songyi and Chen, Lei},
+  journal={IEEE Transactions on Emerging Topics in Computational Intelligence},
+  year={2026},
+  publisher={IEEE}
+}
 ```
